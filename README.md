@@ -1,5 +1,5 @@
 # Robotics-Training-Map
-![](https://scontent.frmq1-1.fna.fbcdn.net/v/t1.6435-9/104806799_2855153077929539_7085234964122089344_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=825194&_nc_ohc=CSBvkUYhSLwAX8y7NPw&_nc_ht=scontent.frmq1-1.fna&oh=00_AT8E-2eEsYbqC9NzmUQm161gX2TZfypvD0WOUkmBOYV-Ig&oe=62D81A3E)
+![](https://raw.githubusercontent.com/ofdl-robotics-tw/Robotics-Training-Map/main/MapPreview.png)
 
 This is a map design for robotics training, students can use this map to experiment lots of task, like PID line follow, object scanning with RGB HSV, trun and line counting, sumo robotics.
 ## Size
